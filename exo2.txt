@@ -1,0 +1,14 @@
+s
+The command ls will list the files in files in the current directory (pwd). Directories are often called
+folders because of how they are represented in GUIs. Directories are just listings of files. They can
+contain other files or directories
+pour voir les dossier on tape cd pour acceder au contenu du repertoire ensuite cd nom du dossier pui ls pour voir le contenu du dossier saisi precedemment
+pour voir le contenu d'un sous dossier on utlise cd + le dossier ensuite cd + le sous dossier et enfin ls
+There are variations you can use with the ls command:
+1. ls -R will list all the files in the sub-directories as well
+2. ls -a will show the hidden files
+3. ls -al will list the files and directories with detailed information like the permissions, size, owner,
+etc
+wc-l pour compter le nombre de lignes
+wc-w pour compter le nombre de mots
+wc -mlc + nom du fichier pour compter nombres de mots de lignes et de caracteres

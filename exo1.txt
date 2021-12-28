@@ -1,0 +1,240 @@
+    1  sudo apt snap zoom-client
+    2  sudo snap install zoom-client
+    3  sudo apt update
+    4  sudo apt-get install jupyter-notebook
+    5  jupyter notebook
+    6  sudo apt-get install sagemath
+    7  sudo snap install zoom-client
+    8  zoom-client
+    9  sudo apt-get install octave
+   10  sudo apt y install r-base gdebi-core 
+   11  sudo apt -y install r-base gdebi-core 
+   12  cd  Downloads/
+   13  ls
+   14  sudo gdebi rstudio-2021.09.0-351-amd64.deb
+   15  rstudio
+   16  Hello
+   17  ''hello''
+   18  git
+   19  sudo apt install git
+   20  git
+   21  git clone https://github.com/gabayae/friendly-shell-lesson.git shell-lesson
+   22  ls
+   23  cd /
+   24  ls
+   25  cd home/
+   26  ls
+   27  cd aimssn/
+   28  ls
+   29  cd
+   30  ls
+   31  cd shell-lesson
+   32  ls
+   33  cd appaloosa.txt
+   34  cd..
+   35  cd ..
+   36  pwd
+   37  cd shell-lesson
+   38  pwd
+   39  whoami
+   40  mkdir MyMusic
+   41  ls
+   42  pwd
+   43  cd MyMusic
+   44  pwd
+   45  cd 
+   46  cd ..
+   47  cd shell-lesson
+   48  touch testfile
+   49  ls
+   50  rm testfile
+   51  ls
+   52  man
+   53  man cd
+   54  man ls
+   55  cat
+   56  cat dictionnary.txt
+   57  cat dictionary.txt
+   58  cp
+   59  ls
+   60  mkdir Houleyma
+   61  cp on.png
+   62  cp os.png/home/username/Pictures
+   63  cd Houleyma
+   64  pwd
+   65  cd ..
+   66  cp OS.png /home/aimssn/shell-lesson/Houleyma
+   67  cd Houleyma
+   68  ls 
+   69  cd ..
+   70  ls
+   71  cd Houleyma
+   72  git config --global user.name "Houleyma"
+   73  git config --global user.email "houleymatou.diallo@aims-senegal.org"
+   74  cd
+   75  mkdir Simplestats
+   76  cd Simpleststats
+   77  git init
+   78  ls
+   79  cd Simplestats/
+   80  git init
+   81  ls -A
+   82  cd .git
+   83  ls -A
+   84  gedit
+   85  gedit description
+   86  gedit config
+   87  touch README.md
+   88  ls README.md 
+   89  gedit README.md 
+   90  git status
+   91  cd ..
+   92  git status
+   93  git add README.md 
+   94  git status
+   95  gedit README.md 
+   96  git add README.md 
+   97  git status
+   98  git branch
+   99  git branch experimental
+  100  git commit -m "hello"
+  101  git log
+  102  git branch experimental
+  103  git branch
+  104  git branch add_stats
+  105  bash ./Anaconda3-2021.11-Linux-x86_64.sh 
+  106  python
+  107  anaconda-navigator 
+  108  anaconda-navigator
+  109  cd shell-practicals
+  110  ls
+  111  mkdir unix
+  112  ls
+  113  touch foo.txt
+  114  ls
+  115  touch foo.txt
+  116  ls
+  117  cp foo.txt
+  118  pwd
+  119  cp/home/aimssn/unix
+  120  cp foo.txt/home/aimssn/unix
+  121  cp foo.txt/home/aimssn/unix/foo-copy.txt
+  122  touch foo-copy.txt
+  123  cp foo.txt/home/aimssn/unix/foo-copy.txt
+  124  mv foo-copy.txt/home/aimssn/foo2,txt
+  125  mv foo.txt foo2.txt
+  126  ls
+  127  mv foo2.txt/home/aimssn/data
+  128  pwd
+  129  mv foo2.txt/home/aimssn/unix/data
+  130  mv foo2.txt /home/aimssn/unix
+  131  mkdir new
+  132  ls
+  133  pwd
+  134  ls
+  135  mv foo2.txt data
+  136  ls
+  137  mv foo2.txt new
+  138  ls
+  139  cd data
+  140  ls
+  141  mv foo2.txt new
+  142  ls
+  143  mv(base) aimssn@aimssn-Latitude-7490:~/unix$ mv foo2.txt /home/aimssn/unix
+  144  ls
+  145  mv new foo2.txt
+  146  ls
+  147  pwd
+  148  ls
+  149  cd..
+  150  cd ..
+  151  ls
+  152  mv foo2.txt/home/aimssn/unix/data/new
+  153  cd new
+  154  mv foo2.txt/home/aimssn/unix/data/new
+  155  mkdir shell-practicals
+  156  mkdr unix
+  157  mkdir linux
+  158  ls
+  159  pwd
+  160  touch foo.txt
+  161  touch foo-copy.txt
+  162  ls
+  163  pwd
+  164  ls
+  165  rm foo.txt
+  166  rm foo-copy.txt
+  167  ls
+  168  cd linux
+  169  ls
+  170  touch foo-copy.txt
+  171  ls
+  172  cp foo.txt/home/aimssn/foo-copy.txt
+  173  mkdir linux
+  174  ls
+  175  cd linux
+  176  cp foo.txt foo-copy.txt
+  177  ls
+  178  mv foo-copy.txt foo2.txt
+  179  ls
+  180  mkdir data
+  181  cd data
+  182  ls
+  183  pwd
+  184  mv foo2.txt/ome/aimssn/linux/data
+  185  cd/home/aimssn/linux
+  186  ls-1
+  187  ls
+  188  cp foo2.txt/data
+  189  pwd
+  190  mv foo2.txt/home/aimssn/linux/data
+  191  mv foo2.txt/data
+  192  ls
+  193  cd data
+  194  ls
+  195  mv  foo2.txt/data
+  196  cd ..
+  197  ls
+  198  pwd
+  199  man mv
+  200  cp foo2.txt/home/aimssn/data
+  201  cp foo2.txt/home/aimssn/linux/data
+  202  pwd
+  203  cp foo2.txt/home/aimssn/linux
+  204  cd linux
+  205  pwd
+  206  cd ..
+  207  rm data
+  208  rmdirdata
+  209  rmdir data
+  210  cp foo2.txt/home/aimssn/linux/data
+  211  foo2.txt/home/aimssn/linux/data  $HOME
+  212  dc linux
+  213  cd linux
+  214  foo2.txt/home/aimssn/linux/data  $HOME 
+  215  foo2.txt/home/aimssn/data$HOME 
+  216  cd data
+  217  touch lm.txt
+  218  cp lm.txt/home/aimssn/linux/new
+  219  cd ..
+  220  mv foo2.txt data
+  221  cd data
+  222  ls
+  223  cd data
+  224  ls
+  225  mv foo2.txt/home/aimssn/linux/new
+  226  mv data/foo2.txt new
+  227  cd data
+  228  ls
+  229  mv foo2.txt /linux/new
+  230  pwd
+  231  cp foo2.txt /home/aimssn/linux/data
+  232  cd ..
+  233  cd new
+  234  ls
+  235  cp foo2.txt /home/aimssn/linux/data
+  236  cd ..
+  237  cd data
+  238  ls
+  239  cd ..
+  240  ls
